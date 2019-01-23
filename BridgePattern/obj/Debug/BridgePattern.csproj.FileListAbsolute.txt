@@ -1,0 +1,12 @@
+D:\Mansi\RND\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe.config
+D:\Mansi\RND\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe
+D:\Mansi\RND\BridgePattern\BridgePattern\bin\Debug\BridgePattern.pdb
+D:\Mansi\RND\BridgePattern\BridgePattern\obj\Debug\BridgePattern.exe
+D:\Mansi\RND\BridgePattern\BridgePattern\obj\Debug\BridgePattern.pdb
+D:\AKKI_DEV\RND\DP\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe.config
+D:\AKKI_DEV\RND\DP\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe
+D:\AKKI_DEV\RND\DP\BridgePattern\BridgePattern\bin\Debug\BridgePattern.pdb
+D:\AKKI_DEV\RND\DP\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csprojAssemblyReference.cache
+D:\AKKI_DEV\RND\DP\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\DP\BridgePattern\BridgePattern\obj\Debug\BridgePattern.exe
+D:\AKKI_DEV\RND\DP\BridgePattern\BridgePattern\obj\Debug\BridgePattern.pdb
